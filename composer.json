@@ -1,0 +1,11 @@
+{
+    "name": "condorcet/condorcetphp-project",
+    "license": "MIT",
+    
+    "require": {
+        "julien-boudry/condorcet": "dev-master"
+    },
+    "require-dev": {
+        "condorcetphp/condorcet-doc-generator": "dev-master"
+    }
+}
